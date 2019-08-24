@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // For Hindi language
+    <string name="welcome">स्वागतम</string>
+    <string name="email">ईमेल पता</string>
+    <string name="password">पासवर्ड</string>
+    <string name="login">लॉगिन</string>
+    <string name="register">खाता नहीं है? साइन अप करें</string>
+</resources>

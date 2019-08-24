@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dd.MainActivity" >
+
+    <item
+        android:id="@+id/action_english"
+        android:orderInCategory="100"
+        android:title="English"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_hindi"
+        android:orderInCategory="100"
+        android:title="Hindi"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_telugu"
+        android:orderInCategory="100"
+        android:title="Telugu"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_french"
+        android:orderInCategory="100"
+        android:title="French"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_german"
+        android:orderInCategory="100"
+        android:title="German"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_japanese"
+        android:orderInCategory="100"
+        android:title="Japanese"
+        app:showAsAction="never" />
+</menu>

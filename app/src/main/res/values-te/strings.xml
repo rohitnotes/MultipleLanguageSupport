@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // For Telugu language
+    <string name="welcome">స్వాగతం</string>
+    <string name="email">ఇమెయిల్ చిరునామా</string>
+    <string name="password">పాస్వర్డ్</string>
+    <string name="login">లాగిన్</string>
+    <string name="register">ఖాతా లేదా? చేరడం</string>
+</resources>

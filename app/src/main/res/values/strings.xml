@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Multiple Language Support</string>
+
+    // For default English language
+    <string name="welcome">Welcome</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Don\'t have account? Sign Up</string>
+</resources>
